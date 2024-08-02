@@ -558,6 +558,7 @@ body {
     padding-top: 5px;
     color: #916f6fff;
     backdrop-filter: blur(4px);
+    text-decoration: none;
 }
 .tele {
     /* opacity: 0.5; */
@@ -573,6 +574,10 @@ body {
     padding-top: 5px;
     color: #916f6fff;
     backdrop-filter: blur(2px);
+    text-decoration: none;
+}
+.soona {
+    text-decoration: none;
 }
 
 
@@ -1141,4 +1146,36 @@ body {
         visibility: visible;
         opacity: 100%;
     }
+}
+.creditme {
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+}
+
+
+
+
+
+
+
+
+
+/* soon page */
+.uno {
+    background-color: ghostwhite;
+    height: 650px;
+}
+.siji {
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.loro {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    filter: blur(0.5px);
+    size: 100px;
 }
