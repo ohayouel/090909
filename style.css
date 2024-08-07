@@ -142,8 +142,8 @@ body {
     margin-left: 60px;
     cursor : pointer ;
     visibility: visible;
-    background-color: aqua;
-    opacity: 0.5;
+    /* background-color: aqua;
+    opacity: 0.5; */
 }
 .text {
     font-family: Arial, Helvetica, sans-serif;
@@ -1150,6 +1150,9 @@ body {
 .creditme {
     text-decoration: none;
     color: rgb(75, 75, 75);
+}
+.creditme:hover {
+    color: rgb(185, 185, 185);
 }
 
 
